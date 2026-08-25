@@ -1,0 +1,33 @@
+# ----------------------   Calculator  --------------------
+num1=float(input("Enter Frist Number :"  ))
+operation=input("Enter Operation Type (+,-,*,/ or % ): ")
+num2=float(input("Enter Second Number : "  ))
+
+if operation == "+" :
+    result = num1 + num2
+    print(num1 , "+" , num2 , "=" , result)
+    
+elif operation == "-" :
+    result = num1 - num2
+    print(num1 , "-" , num2 , "=" , result)
+
+elif operation == "*" :
+    result = num1 * num2
+    print(num1 , "*" , num2 , "=" , result)
+    
+elif operation == "/":
+    if num2 != 0 :
+        result = num1 / num2
+        print(num1, "/" , num2 , "=" ,result)
+    else:
+        print("no way to divid by zero")
+        
+    
+elif operation == "%":
+    result = num1 % num2
+    print(num1 , "%" , num2 , "=" , result)
+
+else :
+    print("sorry")
+
+

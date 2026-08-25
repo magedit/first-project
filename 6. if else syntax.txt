@@ -1,0 +1,15 @@
+# if , elif , else
+"""syntax :
+variable = "value"  م
+if variable=="value" :  مع مراعاة حالة الاحرف
+        print("variable equal value")
+elif variable=="value2":
+    print("variable equal value2")
+else: print("no , sorry")  """
+    
+variable = "value" 
+if variable=="value" :  
+        print("variable equal value");
+elif variable=="value2":
+    print("variable equal value2");
+else: print("no , sorry") 

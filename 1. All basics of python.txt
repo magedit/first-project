@@ -1,0 +1,40 @@
+"print(""Hello World"")"		
+		
+""""""" comment at multiple line"		
+"5555555555555555555555555555555555555 """""""		
+		
+# egdfsgSDgsdg ÊÚáíŞ	ÓØ	Ñ æÇÍÏ
+		
+no1 = 25		
+no2 = 5		
+sum = no1 + no2		
+div = no1 / no2		
+mul = no1 * no2		
+min = no2 - no1		
+"name = ""Asmaa "" # ãÊ"	ÛíÑ	äÕí
+"name1 = ""'Maged'"""		
+		
+"print(""hello my name"	is	"\n"" + name1)# ØÈÇÚÉ ãÊÛíÑ ãÚ ÇáÊÚáíŞ"
+		
+print(5 + 4.5) # ØÈÇ	ÚÉ	ÚãáíÉ ÍÓÇÈíÉ Úáì ÇäæÇÚ ÇáÇÑŞÇã
+		
+print(name + name1)	# Ø	ÈÇÚÉ ãÊÛíÑÇÊ äÕíå ãÚÇğ
+		
+print(sum)		
+print(div)		
+print(mul)		
+print(min)		
+		
+no3 = 50		
+"print(""my father age"	is	": "" +str(no3)) # ÊÍæíá ÑŞã Çáì äÕ  İí ÇáØÈÇÚÉ ÈÏæä ÇáÊÃËíÑ Úáì ŞíãÊå ÇáÇÕáíÉ"
+print(no3)		
+print(name.upper())	#	ØÈÇÚÉ ÇáäÕ ÍÑæİ ßÈíÑå
+		
+print(name.lower())	#	ØÈÇÚÉ ÇáäÕ ÍÑæİ ÕÛíÑå
+		
+name_forthly = 'mage	d a	li qasem khawlani'
+print(name_forthly.c	api	talize())   # ØÈÇÚÉ ÇáäÕ Çæá ÍÑİ ßÈíÑ
+		
+print(name_forthly.t	itl	e())   # ØÈÇÚÉ ÇáäÕ ÍÑæİ ßÈíÑå ÈÏÇíÉ ßá ßáãÉ
+		
+print(type (no3))# á	ãÚÑ	İÉ äæÚ Çí ãÊÛíÑ

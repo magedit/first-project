@@ -1,0 +1,12 @@
+#المقارنة Boolean
+
+compare1 = (10==20)
+compare2 = (10<20)
+compare3 = (10>=5)
+compare4 = (10>20)
+compare5 = (10!=20)
+print(compare1)
+print(compare2)
+print(compare3)
+print(compare4)
+print(compare5)

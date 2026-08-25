@@ -1,0 +1,26 @@
+
+#العمليات الحسابية
+
+print("| welcome to calculator app |\n")
+num1 = float(input("fnum is : "))
+num2 = float(input("snum is : "))
+
+
+
+print("| ------------------------ |\n")
+
+
+adding= num1+num2
+sub=num1-num2
+mult=num1*num2
+#div=num1/num2
+print("adding = ",+ (adding))
+print("subtract = ",+ sub)
+print("multiply = " ,+ mult)
+#print("divid = " , + div)
+print("divid = " , + num1/num2)
+
+  
+"""print("subtract : 8")
+print("multiply : 20")
+print("divid : 5")  """

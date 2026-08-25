@@ -1,0 +1,5 @@
+# Logic and , or ,not (small characters only)
+
+print(10 > 20 and 20<40)
+print(10 > 20 or 20<40)
+print(10 > 20 or not(20<40))
