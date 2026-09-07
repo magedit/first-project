@@ -1,1 +1,5 @@
 'fist day- second file'
+we will work on odd system and its databases
+we will customize / cerate odoo modules
+we are working on great task
+lets go
